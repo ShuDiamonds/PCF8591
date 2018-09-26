@@ -2,7 +2,9 @@
 This Python code is about a i2c -D/A &amp;A/D- device, PCF8591 library using wiring pi on Rasbperry pi 3. Plese feel free to use !
 
 ## Description
-
+<p align="center"> 
+<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/IMG_20180926_112731.jpg" width="480px"  title="wiring">
+</p>
 ## Requirement
 * Raspberry pi 3
 * ubuntu16.04
