@@ -1,5 +1,5 @@
 # PCF8591
-This Python code is about a i2c -D/A &amp;A/D- device, PCF8591 library using wiring pi on Rasbperry pi 3. Plese feel free to use !
+This Python code is about a `i2c` -`D/A` &amp;`A/D`- device, `PCF8591` library using `wiring pi` on Rasbperry pi 3. Plese feel free to use !
 
 ## Description
 <p align="center"> 
@@ -41,8 +41,8 @@ GND ------------- GND
 ```bash
 $ python3 PCF8591.py
 ```
-### D/A & A/D example
-In this program, Raspberry pi read a variable register value(0-255) on PCF8591 default setting. And 
+### `D/A` & `A/D` example
+In this program, Raspberry pi read a variable register value(0-255) on `PCF8591` default setting. And 
 output to LED(located at lowwer in this picture) which is on PCF8591 using Digital analog converter.
 ```bash
 $ python3 DA&ADexample.py
