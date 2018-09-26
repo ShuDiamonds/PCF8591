@@ -19,7 +19,17 @@ $ sudo raspi-config
 3. Enable i2c
 
 ## Wiring
+#Pin Assign  
+PCF8591 --------- Raspberry pi3  
+SDA ------------ GPIO2/SDA1  
+SCL ------------ GPIO3/SCL1  
+VCC ------------- 3.3V  
+GND ------------- GND  
 
+
+<p align="center"> 
+<img  src="https://github.com/ShuDiamonds/FFT-spectrum-analyzer/blob/master/FFTspectrum.gif" width="480px"  title="FFT-spectrum-analyzer">
+</p>
 
 ## Usage
 ```bash
