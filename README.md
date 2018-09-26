@@ -8,6 +8,8 @@ This Python code is about a i2c -D/A &amp;A/D- device, PCF8591 library using wir
 * Python3
 * ubuntu16.04
 * [PCF8591](https://www.amazon.co.jp/gp/product/B00BXX4UWC/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
+<p align="left"> 
+<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/pcf8591.jpg" width="120px"  title="FFT-spectrum-analyzer">
 
 ## Setting
 #i2c enable
@@ -28,7 +30,7 @@ GND ------------- GND
 
 
 <p align="center"> 
-<img  src="https://github.com/ShuDiamonds/FFT-spectrum-analyzer/blob/master/FFTspectrum.gif" width="480px"  title="FFT-spectrum-analyzer">
+<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/IMG_20180926_112731.jpg" width="480px"  title="wiring">
 </p>
 
 ## Usage
