@@ -57,6 +57,9 @@ $ python3 DA&ADexample.py
 
   [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
-## Author
+## Related Articles
+* [embedded](https://github.com/topics/shu-embedded-systems)
+* [Machine Learning data](https://github.com/topics/shu-machine-learning-data)
 
+## Author
   [ShuDiamonds](https://github.com/ShuDiamonds)
