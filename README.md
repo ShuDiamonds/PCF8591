@@ -3,7 +3,7 @@ This Python code is about a i2c -D/A &amp;A/D- device, PCF8591 library using wir
 
 ## Description
 <p align="center"> 
-<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/IMG_20180926_112731.jpg" width="480px"  title="wiring">
+<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/da%26ad%20example.gif" width="480px"  title="wiring">
 </p>
 ## Requirement
 * Raspberry pi 3
