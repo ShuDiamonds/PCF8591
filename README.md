@@ -5,7 +5,7 @@ This Python code is about a i2c -D/A &amp;A/D- device, PCF8591 library using wir
 
 ## Requirement
 * Raspberry pi 3
-* Python3
+* Python 3.x
 * ubuntu16.04
 * [PCF8591](https://www.amazon.co.jp/gp/product/B00BXX4UWC/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
 <p align="left"> 
