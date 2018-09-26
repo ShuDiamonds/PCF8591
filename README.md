@@ -12,7 +12,7 @@ This Python code is about a i2c -D/A &amp;A/D- device, PCF8591 library using wir
 <img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/pcf8591.jpg" width="120px"  title="FFT-spectrum-analyzer">
 
 ## Setting
-#i2c enable
+###i2c enable
 1.
 ```bash
 $ sudo raspi-config
