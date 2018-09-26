@@ -34,6 +34,7 @@ GND ------------- GND
 </p>
 
 ## Usage
+### Basic Example
 ```bash
 $ python3 PCF8591.py
 ```
