@@ -37,6 +37,13 @@ GND ------------- GND
 ```bash
 $ python3 PCF8591.py
 ```
+### D/A & A/D example
+```bash
+$ python3 DA&ADexample.py
+```
+<p align="center"> 
+<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/da%26ad%20example.gif" width="480px"  title="wiring">
+</p>
 
 ## Licence
 
