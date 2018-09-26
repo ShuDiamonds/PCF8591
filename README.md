@@ -40,7 +40,7 @@ $ python3 PCF8591.py
 ```
 ### D/A & A/D example
 In this program, Raspberry pi read a variable register value(0-255) on PCF8591 default setting. And 
-output to LED which is on PCF8591 using Digital analog converter.
+output to LED(located at lowwer in this picture) which is on PCF8591 using Digital analog converter.
 ```bash
 $ python3 DA&ADexample.py
 ```
