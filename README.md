@@ -23,8 +23,8 @@ $ sudo raspi-config
 ## Wiring
 ### Pin Assign  
 PCF8591 --------- Raspberry pi3  
-SDA ------------ GPIO2/SDA1  
-SCL ------------ GPIO3/SCL1  
+SDA ------------- GPIO2/SDA1  
+SCL ------------- GPIO3/SCL1  
 VCC ------------- 3.3V  
 GND ------------- GND  
 
