@@ -5,12 +5,14 @@ This Python code is about a `i2c` -`D/A` &amp;`A/D`- device, `PCF8591` library u
 <p align="center"> 
 <img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/da%26ad%20example.gif" width="480px"  title="wiring">
 </p>
-## Requirement
-* Raspberry pi 3
-* ubuntu16.04
-* Python 3.x
-* wiring pi
-* [PCF8591](https://www.amazon.co.jp/gp/product/B00BXX4UWC/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)
+  
+## Requirement  
+* Raspberry pi 3  
+* ubuntu16.04  
+* Python 3.x  
+* wiring pi  
+* [PCF8591](https://www.amazon.co.jp/gp/product/B00BXX4UWC/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)  
+  
 <p align="left"> 
 <img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/pcf8591.jpg" width="120px"  title="FFT-spectrum-analyzer">
 
