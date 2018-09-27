@@ -25,23 +25,10 @@ $ sudo raspi-config
 2. Choose Advanced Option 
 3. Enable i2c
 
-## Wiring
-### Pin Assign  
-PCF8591 --------- Raspberry pi3  
-SDA ------------- GPIO2/SDA1  
-SCL ------------- GPIO3/SCL1  
-VCC ------------- 3.3V  
-GND ------------- GND  
-
-
-<p align="center"> 
-<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/IMG_20180926_112731.jpg" width="480px"  title="wiring">
-</p>
-
 ## Usage
 ### Basic Example
 ```bash
-$ python3 PCF8591.py
+$ python3 demo2.py
 ```
 ### `D/A` & `A/D` example
 In this program, Raspberry pi read a variable register value(0-255) on `PCF8591` default setting. And 
@@ -49,9 +36,6 @@ output to LED(located at lowwer in this picture) which is on PCF8591 using Digit
 ```bash
 $ python3 DA&ADexample.py
 ```
-<p align="center"> 
-<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/da%26ad%20example.gif" width="480px"  title="wiring">
-</p>
 
 ## Licence
 
