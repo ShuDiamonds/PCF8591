@@ -1,7 +1,6 @@
 # PCF8591
 This Python code is about a `i2c` -`D/A` &amp;`A/D`- device, `PCF8591` library using `wiring pi` on Rasbperry pi 3. Plese feel free to use !
 
-## Description
 <p align="center"> 
 <img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/da%26ad%20example.gif" width="480px"  title="wiring">
 </p>
