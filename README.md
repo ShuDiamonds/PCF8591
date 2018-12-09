@@ -36,7 +36,7 @@ GND ------------- GND
 <img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/IMG_20180926_112731.jpg" width="480px"  title="wiring">
 </p>
  <p align="center"> 
-<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/pin%20assign.png" width="480px"  title="pin ssign">
+<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/pin%20assign.png"   title="pin ssign">
 </p>
 
 
