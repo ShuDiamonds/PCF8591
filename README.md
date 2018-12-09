@@ -40,11 +40,11 @@ GND ------------- GND
 </p>
 
 ## Features
-* Model number:PCF8591
-* Voltage:DC2.5V-6V
-* Analog Input Voltage:0V-5V
-* Interface:i2c
-* A/D Resolution:8bit
+* Model number : PCF8591
+* Voltage : DC2.5V-6V
+* Analog Input Voltage : 0V-5V
+* Interface : i2c
+* A/D Resolution : 8bit
 
 ## Usage
 ### Basic Example
