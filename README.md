@@ -32,12 +32,13 @@ SDA ------------- GPIO2/SDA1
 SCL ------------- GPIO3/SCL1  
 VCC ------------- 3.3V  
 GND ------------- GND  
- <p align="center"> 
-<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/IMG_20180926_112731.jpg" width="480px"  title="wiring">
-</p>
- <p align="center"> 
+  <p align="center"> 
 <img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/pin%20assign.png"   title="pin ssign">
 </p>
+<p align="center"> 
+<img  src="https://github.com/ShuDiamonds/PCF8591/blob/master/image/IMG_20180926_112731.jpg" width="480px"  title="wiring">
+</p>
+
 
 
 ## Usage
